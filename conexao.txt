@@ -1,0 +1,9 @@
+sck -pin 13
+reset - pin 12
+sda - pin 11
+cs - pin 10
+A0 - pin 9
+GND -GND
+VCC - VCC
+LED - 3.3v
+
